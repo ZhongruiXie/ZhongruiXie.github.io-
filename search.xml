@@ -14,6 +14,27 @@
 ]]></content>
   </entry>
   <entry>
+    <title>How to start a new post</title>
+    <url>/2024/07/29/How%20to%20start%20a%20new%20post/</url>
+    <content><![CDATA[<h1 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h1><p>This blog is in case I myself forget how to write the notes I took in the blog.</p>
+<h1 id="Main"><a href="#Main" class="headerlink" title="Main"></a>Main</h1><p><strong>Refer to these two websites:</strong></p>
+<p><a href="https://hexo.io/">Hexo</a> and <a href="https://theme-next.js.org/"> NexT </a></p>
+<p><strong>Some useful commands：</strong></p>
+<p>Create a new blog</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new &#x27;blog_name&#x27;</span><br></pre></td></tr></table></figure>
+
+<p>Clean</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean</span><br></pre></td></tr></table></figure>
+
+<p>Preview</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure>
+
+<p>Deploy</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
     <title>test</title>
     <url>/2024/04/24/test/index/</url>
     <content><![CDATA[<p>​	more to add…</p>
