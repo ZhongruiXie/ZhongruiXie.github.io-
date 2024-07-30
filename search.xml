@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Homepage</title>
-    <url>/2024/04/23/homepage/index/</url>
-    <content><![CDATA[<p>​	Welcome to <a href="zhongruixie.github.io">My personal homepage</a>! There are some imformation that help you learn more about me. If you want to interact with me, here is my <a href="mailto:xzr0518@outlook.com">E-mail</a>, and you can also visit my <a href="https://github.com/ZhongruiXie/">GitHub</a>.</p>
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>​	I am an undergraduate student at <a href="https://www.zju.edu.cn/">ZheJiang University</a>, whose major is atmosphere science. You can find my CV  for Chinese  <a href="/PDF/CV.pdf">here</a>.</p>
-<p>more to add……</p>
-<h1 id="Blog-Description"><a href="#Blog-Description" class="headerlink" title="Blog Description"></a>Blog Description</h1><h2 id="Categories"><a href="#Categories" class="headerlink" title="Categories"></a>Categories</h2><h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><p>Show pictures used matplotlib, or other fiction I had achieved.</p>
-<h3 id="Fortran"><a href="#Fortran" class="headerlink" title="Fortran"></a>Fortran</h3><p>Some homework here, and some small project.</p>
-<h3 id="Latex"><a href="#Latex" class="headerlink" title="Latex"></a>Latex</h3><p>Notebooks for some courses.</p>
-<h3 id="Matlab"><a href="#Matlab" class="headerlink" title="Matlab"></a>Matlab</h3><p>For I use Python more often, there may be nothing.</p>
-<h3 id="ArcGIS"><a href="#ArcGIS" class="headerlink" title="ArcGIS"></a>ArcGIS</h3><p>Some projects, may be nothing.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>How to start a new post</title>
     <url>/2024/07/29/How%20to%20start%20a%20new%20post/</url>
     <content><![CDATA[<h1 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h1><p>This blog is in case I myself forget how to write the notes I took in the blog.</p>
@@ -35,6 +22,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Homepage</title>
+    <url>/2024/04/23/homepage/index/</url>
+    <content><![CDATA[<p>​	Welcome to <a href="zhongruixie.github.io">My personal homepage</a>! There are some imformation that help you learn more about me. If you want to interact with me, here is my <a href="mailto:xzr0518@outlook.com">E-mail</a>, and you can also visit my <a href="https://github.com/ZhongruiXie/">GitHub</a>.</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>​	I am an undergraduate student at <a href="https://www.zju.edu.cn/">ZheJiang University</a>, whose major is atmosphere science. You can find my CV  for Chinese  <a href="/PDF/CV.pdf">here</a>.</p>
+<p>more to add……</p>
+<h1 id="Blog-Description"><a href="#Blog-Description" class="headerlink" title="Blog Description"></a>Blog Description</h1><h2 id="Categories"><a href="#Categories" class="headerlink" title="Categories"></a>Categories</h2><h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><p>Show pictures used matplotlib, or other fiction I had achieved.</p>
+<h3 id="Fortran"><a href="#Fortran" class="headerlink" title="Fortran"></a>Fortran</h3><p>Some homework here, and some small project.</p>
+<h3 id="Latex"><a href="#Latex" class="headerlink" title="Latex"></a>Latex</h3><p>Notebooks for some courses.</p>
+<h3 id="Matlab"><a href="#Matlab" class="headerlink" title="Matlab"></a>Matlab</h3><p>For I use Python more often, there may be nothing.</p>
+<h3 id="ArcGIS"><a href="#ArcGIS" class="headerlink" title="ArcGIS"></a>ArcGIS</h3><p>Some projects, may be nothing.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>My first plt program</title>
     <url>/2024/07/29/My%20first%20plt%20program/My%20first%20plt%20program/</url>
     <content><![CDATA[<p><strong>Map the global monthly average temperature for January 2024</strong></p>
@@ -42,7 +42,7 @@
 
 <p><strong>Note</strong></p>
 <p>Here I use the netCDF library, but in my later study and practice, I found the xarray library more convenient</p>
-<p>SHOW：<br><img src="/.io//100.png" alt="100"></p>
+<p>SHOW：<br><img src="/images/100.png" alt="100"></p>
 ]]></content>
       <categories>
         <category>python</category>
