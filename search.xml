@@ -42,8 +42,7 @@
 
 <p><strong>Note</strong></p>
 <p>Here I use the netCDF library, but in my later study and practice, I found the xarray library more convenient</p>
-<p>SHOW：</p>
-<img src="/images/100.png" class width="600" height="600" title="Click To Enlarge :vi&#x2F;vim-cheat-sheet"> 
+<p>SHOW：<img src="/images/100.jpg" alt="100"></p>
 ]]></content>
       <categories>
         <category>python</category>
